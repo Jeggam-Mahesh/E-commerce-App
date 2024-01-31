@@ -48,7 +48,7 @@ const Navbar = (props) => {
     console.log("orrder id",order_id);
       
   const options ={
-    key:"rzp_test_FaT0o1O7SAaX6o", // Enter the Test API Key ID
+    key:"", // Enter the Test API Key ID
     amount:price*100,// Amount is in currency subunits. Hence, 20 refers to 20
      currency:"INR",
      name:"mahesh",
